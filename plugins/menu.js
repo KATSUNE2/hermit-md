@@ -50,7 +50,7 @@ Function({
 ┃✵│ Mode : ${MODE}
 ┃✵│ Platform : ${os.platform()}
 ┃✵│ Ram : ${formatp(os.totalmem() - os.freemem())} / ${formatp(os.totalmem())}
-┃✵│ Version : ${VERSION}
+┃✵│ Version : ${VERSION} 100
 ┃✵╰──────────────
 ╰━━━━━━━━━━━━━━━┈⊷
 `
